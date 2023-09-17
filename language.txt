@@ -1,0 +1,14 @@
+welcome to coding languages
+
+c++
+php
+java
+javascript
+python
+csharp
+c
+typescript
+angular js
+react js
+node js
+express js
