@@ -13,6 +13,11 @@ react js
 node js
 express js
 spring boot
-css
+css  
+
+hashmap
+heap
+graph
+
 
 thank you
